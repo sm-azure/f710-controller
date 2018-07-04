@@ -1,2 +1,4 @@
 evdev==1.0.0
 pkg-resources==0.0.0
+pyzmq==17.0.0
+pyzmq-static==2.2
